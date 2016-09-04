@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HciTTSDemo</string>
+    <string name="hello">你好,我是灵灵,很高兴见到你哦!</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+</resources>
